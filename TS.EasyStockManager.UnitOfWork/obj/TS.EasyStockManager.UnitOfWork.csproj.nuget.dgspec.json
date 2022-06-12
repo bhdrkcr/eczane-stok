@@ -1,0 +1,382 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.UnitOfWork/TS.EasyStockManager.UnitOfWork.csproj": {}
+  },
+  "projects": {
+    "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Common/TS.EasyStockManager.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Common/TS.EasyStockManager.Common.csproj",
+        "projectName": "TS.EasyStockManager.Common",
+        "projectPath": "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Common/TS.EasyStockManager.Common.csproj",
+        "packagesPath": "/Users/elif/.nuget/packages/",
+        "outputPath": "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/elif/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Core/TS.EasyStockManager.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Core/TS.EasyStockManager.Core.csproj",
+        "projectName": "TS.EasyStockManager.Core",
+        "projectPath": "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Core/TS.EasyStockManager.Core.csproj",
+        "packagesPath": "/Users/elif/.nuget/packages/",
+        "outputPath": "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/elif/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Data/TS.EasyStockManager.Data.csproj": {
+                "projectPath": "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Data/TS.EasyStockManager.Data.csproj"
+              },
+              "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Model/TS.EasyStockManager.Model.csproj": {
+                "projectPath": "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Model/TS.EasyStockManager.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Data/TS.EasyStockManager.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Data/TS.EasyStockManager.Data.csproj",
+        "projectName": "TS.EasyStockManager.Data",
+        "projectPath": "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Data/TS.EasyStockManager.Data.csproj",
+        "packagesPath": "/Users/elif/.nuget/packages/",
+        "outputPath": "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/elif/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Common/TS.EasyStockManager.Common.csproj": {
+                "projectPath": "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Common/TS.EasyStockManager.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Model/TS.EasyStockManager.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Model/TS.EasyStockManager.Model.csproj",
+        "projectName": "TS.EasyStockManager.Model",
+        "projectPath": "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Model/TS.EasyStockManager.Model.csproj",
+        "packagesPath": "/Users/elif/.nuget/packages/",
+        "outputPath": "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Model/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/elif/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Repository/TS.EasyStockManager.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Repository/TS.EasyStockManager.Repository.csproj",
+        "projectName": "TS.EasyStockManager.Repository",
+        "projectPath": "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Repository/TS.EasyStockManager.Repository.csproj",
+        "packagesPath": "/Users/elif/.nuget/packages/",
+        "outputPath": "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/elif/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Core/TS.EasyStockManager.Core.csproj": {
+                "projectPath": "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Core/TS.EasyStockManager.Core.csproj"
+              },
+              "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Data/TS.EasyStockManager.Data.csproj": {
+                "projectPath": "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Data/TS.EasyStockManager.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.UnitOfWork/TS.EasyStockManager.UnitOfWork.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.UnitOfWork/TS.EasyStockManager.UnitOfWork.csproj",
+        "projectName": "TS.EasyStockManager.UnitOfWork",
+        "projectPath": "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.UnitOfWork/TS.EasyStockManager.UnitOfWork.csproj",
+        "packagesPath": "/Users/elif/.nuget/packages/",
+        "outputPath": "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.UnitOfWork/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/elif/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Core/TS.EasyStockManager.Core.csproj": {
+                "projectPath": "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Core/TS.EasyStockManager.Core.csproj"
+              },
+              "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Data/TS.EasyStockManager.Data.csproj": {
+                "projectPath": "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Data/TS.EasyStockManager.Data.csproj"
+              },
+              "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Repository/TS.EasyStockManager.Repository.csproj": {
+                "projectPath": "/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Repository/TS.EasyStockManager.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

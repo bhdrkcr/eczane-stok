@@ -1,0 +1,17 @@
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Mapper/bin/Debug/netcoreapp3.1/TS.EasyStockManager.Mapper.deps.json
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Mapper/bin/Debug/netcoreapp3.1/TS.EasyStockManager.Mapper.dll
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Mapper/bin/Debug/netcoreapp3.1/TS.EasyStockManager.Mapper.pdb
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Mapper/bin/Debug/netcoreapp3.1/TS.EasyStockManager.Common.dll
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Mapper/bin/Debug/netcoreapp3.1/TS.EasyStockManager.Data.dll
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Mapper/bin/Debug/netcoreapp3.1/TS.EasyStockManager.Model.dll
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Mapper/bin/Debug/netcoreapp3.1/TS.EasyStockManager.Data.pdb
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Mapper/bin/Debug/netcoreapp3.1/TS.EasyStockManager.Model.pdb
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Mapper/bin/Debug/netcoreapp3.1/TS.EasyStockManager.Common.pdb
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Mapper/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Mapper.csproj.AssemblyReference.cache
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Mapper/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Mapper/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Mapper.AssemblyInfoInputs.cache
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Mapper/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Mapper.AssemblyInfo.cs
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Mapper/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Mapper.csproj.CoreCompileInputs.cache
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Mapper/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Mapper.csproj.CopyComplete
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Mapper/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Mapper.dll
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Mapper/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Mapper.pdb

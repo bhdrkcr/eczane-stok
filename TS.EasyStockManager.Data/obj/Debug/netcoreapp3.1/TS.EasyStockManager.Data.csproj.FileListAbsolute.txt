@@ -1,0 +1,16 @@
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Data/bin/Debug/netcoreapp3.1/TS.EasyStockManager.Data.deps.json
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Data/bin/Debug/netcoreapp3.1/TS.EasyStockManager.Data.runtimeconfig.json
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Data/bin/Debug/netcoreapp3.1/TS.EasyStockManager.Data.runtimeconfig.dev.json
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Data/bin/Debug/netcoreapp3.1/TS.EasyStockManager.Data.dll
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Data/bin/Debug/netcoreapp3.1/TS.EasyStockManager.Data.pdb
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Data/bin/Debug/netcoreapp3.1/TS.EasyStockManager.Common.dll
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Data/bin/Debug/netcoreapp3.1/TS.EasyStockManager.Common.pdb
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Data/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Data.csproj.AssemblyReference.cache
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Data/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Data/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Data.AssemblyInfoInputs.cache
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Data/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Data.AssemblyInfo.cs
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Data/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Data.csproj.CoreCompileInputs.cache
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Data/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Data.csproj.CopyComplete
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Data/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Data.dll
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Data/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Data.pdb
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Data/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Data.genruntimeconfig.cache

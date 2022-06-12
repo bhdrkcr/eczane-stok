@@ -1,0 +1,12 @@
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Common/bin/Debug/netcoreapp3.1/TS.EasyStockManager.Common.deps.json
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Common/bin/Debug/netcoreapp3.1/TS.EasyStockManager.Common.dll
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Common/bin/Debug/netcoreapp3.1/TS.EasyStockManager.Common.pdb
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Common/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Common.csproj.AssemblyReference.cache
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Common/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Common.Message.CommonMessages.resources
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Common/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Common.csproj.GenerateResource.cache
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Common/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Common/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Common.AssemblyInfoInputs.cache
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Common/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Common.AssemblyInfo.cs
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Common/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Common.csproj.CoreCompileInputs.cache
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Common/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Common.dll
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Common/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Common.pdb

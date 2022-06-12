@@ -1,0 +1,17 @@
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Core/bin/Debug/netcoreapp3.1/TS.EasyStockManager.Core.deps.json
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Core/bin/Debug/netcoreapp3.1/TS.EasyStockManager.Core.dll
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Core/bin/Debug/netcoreapp3.1/TS.EasyStockManager.Core.pdb
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Core/bin/Debug/netcoreapp3.1/TS.EasyStockManager.Common.dll
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Core/bin/Debug/netcoreapp3.1/TS.EasyStockManager.Data.dll
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Core/bin/Debug/netcoreapp3.1/TS.EasyStockManager.Model.dll
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Core/bin/Debug/netcoreapp3.1/TS.EasyStockManager.Data.pdb
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Core/bin/Debug/netcoreapp3.1/TS.EasyStockManager.Model.pdb
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Core/bin/Debug/netcoreapp3.1/TS.EasyStockManager.Common.pdb
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Core/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Core.csproj.AssemblyReference.cache
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Core/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Core/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Core.AssemblyInfoInputs.cache
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Core/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Core.AssemblyInfo.cs
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Core/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Core.csproj.CoreCompileInputs.cache
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Core/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Core.csproj.CopyComplete
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Core/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Core.dll
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Core/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Core.pdb

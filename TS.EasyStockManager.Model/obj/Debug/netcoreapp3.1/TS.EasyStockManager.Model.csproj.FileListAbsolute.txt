@@ -1,0 +1,10 @@
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Model/bin/Debug/netcoreapp3.1/TS.EasyStockManager.Model.deps.json
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Model/bin/Debug/netcoreapp3.1/TS.EasyStockManager.Model.dll
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Model/bin/Debug/netcoreapp3.1/TS.EasyStockManager.Model.pdb
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Model/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Model.csproj.AssemblyReference.cache
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Model/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Model/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Model.AssemblyInfoInputs.cache
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Model/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Model.AssemblyInfo.cs
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Model/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Model.csproj.CoreCompileInputs.cache
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Model/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Model.dll
+/Users/elif/Downloads/TSEasyStockManager-master/TS.EasyStockManager.Model/obj/Debug/netcoreapp3.1/TS.EasyStockManager.Model.pdb
